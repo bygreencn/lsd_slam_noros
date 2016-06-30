@@ -31,8 +31,8 @@
 //#include <geometry_msgs/PoseStamped.h>
 
 #include "util/undistorter.h"
-#include <cv.h>
-#include <highgui.h>
+#include <opencv/cv.h>
+#include <opencv/highgui.h>
 
 namespace lsd_slam
 {
